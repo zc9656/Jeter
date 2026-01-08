@@ -1,5 +1,5 @@
 {
-  "name": "簡易薪資計算-(salary-calc)",
+  "name": "salary-calculator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
